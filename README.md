@@ -8,6 +8,8 @@ Embdding 다운 받는곳 https://drive.google.com/file/d/1O6Izzvta2ehRN96rtPjaS
 
 Download these from yelp dataset 
 
+https://www.yelp.com/dataset
+
 business_input = 'yelp/yelp_academic_dataset_business.json'
 
 review_input = 'yelp/yelp_academic_dataset_review.json'
