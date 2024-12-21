@@ -43,4 +43,6 @@ https://developer.chrome.com/docs/chromedriver/downloads?hl=ko
 **---------------Crawling preprocssing--------------------**
 
 ----
-**---------------------------------------Crawling prediction-------------------**
+**---------------------------------------Crawling prediction(Kakao_predict.py)-------------------**
+
+This code predicts the star rating based on Kakao Map reviews and compares it to the actual star rating based on the previously preprocessed Kakao dataset and photos.
