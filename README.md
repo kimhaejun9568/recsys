@@ -16,16 +16,27 @@ photo_input = 'yelp/photos.json'
 
 
 ├── yelp/(https://www.yelp.com/dataset)
-│   ├── review.json      
-│   ├── user.json        
-│   ├── business.json    
-│   ├── photos.json      
+
+│   ├── review.json   
+
+│   ├── user.json   
+
+│   ├── business.json  
+
+│   ├── photos.json
+
 │
+
 ├── embedding/( https://drive.google.com/file/d/1O6Izzvta2ehRN96rtPjaSyKH-3nq63Wo/view?usp=sharing )
+
 │
-├── data/ (https://drive.google.com/file/d/1SQPvuAr-oVzwDuokaJGm6AnCpJZVvuS3/view?usp=sharing)                  
+
+├── data/ (https://drive.google.com/file/d/1SQPvuAr-oVzwDuokaJGm6AnCpJZVvuS3/view?usp=sharing)  
+
 │
+
 ├── photos/((https://www.yelp.com/dataset))
+
 │   ├── photo1.
 
 **---------------Yelp Training-----------**
