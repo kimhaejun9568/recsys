@@ -27,14 +27,14 @@
 
 │  
 
-**----------------------**
+----------------------
 
 **---------------Yelp Training(Main.py)-----------**
 
 After aligning the dataset to the file location. 
 You can run Main.py
 
-
+---------------------------
 **----------------Crawling(naver_kakao_data.ipynb)---------------------**
 
 
