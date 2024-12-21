@@ -1,5 +1,5 @@
 # README
-----------------------------Dataset ------------------
+**----------------------------Dataset ------------------**
 
 Yelp and Kakao code environment 데이터 다운 받는 곳 https://drive.google.com/file/d/1SQPvuAr-oVzwDuokaJGm6AnCpJZVvuS3/view?usp=sharing 
 
@@ -18,12 +18,12 @@ photo_input = 'yelp/photos.json'
 
 
 
----------------------------------------Yelp Training-----------
+**---------------Yelp Training-----------**
 --------------------
 
 
 
-----------------Crawling(naver_kakao_data.ipynb)---------------------
+**----------------Crawling(naver_kakao_data.ipynb)---------------------**
 
 
 This code serves to (1) crawl ratings data from Kakao Map and image/review data from Naver Map (2) match each other based on the name of the restaurant 
@@ -40,9 +40,7 @@ https://chromedriver.storage.googleapis.com/LATEST_RELEASE
 https://developer.chrome.com/docs/chromedriver/downloads?hl=ko
 
 ------------
+**---------------Crawling preprocssing--------------------**
 
----------------Crawling preprocssing--------------------
-
-
-
----------------------------------------Crawling prediction-------------------
+----
+**---------------------------------------Crawling prediction-------------------**
