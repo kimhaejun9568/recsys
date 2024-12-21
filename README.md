@@ -22,6 +22,8 @@ photo_input = 'yelp/photos.json'
 
 
 ----------------Crawling(naver_kakao_data.ipynb)---------------------
+
+
 This code serves to (1) crawl ratings data from Kakao Map and image/review data from Naver Map (2) match each other based on the name of the restaurant 
 
 1. Download Chromedriver.exe to the matching version of your Chrome
@@ -35,7 +37,7 @@ https://chromedriver.storage.googleapis.com/LATEST_RELEASE
 *Download Chrome Driver
 https://developer.chrome.com/docs/chromedriver/downloads?hl=ko
 
-
+------------
 
 ---------------Crawling preprocssing--------------------
 
