@@ -37,7 +37,7 @@ photo_input = 'yelp/photos.json'
 
 ├── photos/((https://www.yelp.com/dataset))
 
-│   ├── photo1.
+│  
 
 **---------------Yelp Training-----------**
 --------------------
