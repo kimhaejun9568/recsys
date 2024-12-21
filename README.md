@@ -3,18 +3,6 @@
 
 
 
-
-Download these from yelp dataset 
-
-https://www.yelp.com/dataset
-
-business_input = 'yelp/yelp_academic_dataset_business.json'
-
-review_input = 'yelp/yelp_academic_dataset_review.json'
-
-photo_input = 'yelp/photos.json'
-
-
 ├── yelp/(https://www.yelp.com/dataset)
 
 │   ├── review.json   
