@@ -1,4 +1,4 @@
-# recsy
+# README
 ----------------------------Dataset ------------------
 
 Yelp and Kakao code environment 데이터 다운 받는 곳 https://drive.google.com/file/d/1SQPvuAr-oVzwDuokaJGm6AnCpJZVvuS3/view?usp=sharing 
